@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>{{SITE_ORIGIN}}/an-toan/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-an-toan-16x9.png</image:loc>
+      <image:title>Dubai Palace An toàn – Phishing, OTP, giao dịch giả &amp; KYC</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-an-toan-4x3.png</image:loc>
+      <image:title>Dubai Palace An toàn – Phishing, OTP, giao dịch giả &amp; KYC</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-an-toan-1x1.png</image:loc>
+      <image:title>Dubai Palace An toàn – Phishing, OTP, giao dịch giả &amp; KYC</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/chinh-sach-bien-tap/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-chinh-sach-bien-tap-16x9.png</image:loc>
+      <image:title>Chính sách biên tập — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-chinh-sach-bien-tap-4x3.png</image:loc>
+      <image:title>Chính sách biên tập — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-chinh-sach-bien-tap-1x1.png</image:loc>
+      <image:title>Chính sách biên tập — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/choi-co-trach-nhiem/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-choi-co-trach-nhiem-16x9.png</image:loc>
+      <image:title>Dubai Palace – Chơi có trách nhiệm, giới hạn &amp; gỡ thua</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-choi-co-trach-nhiem-4x3.png</image:loc>
+      <image:title>Dubai Palace – Chơi có trách nhiệm, giới hạn &amp; gỡ thua</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-choi-co-trach-nhiem-1x1.png</image:loc>
+      <image:title>Dubai Palace – Chơi có trách nhiệm, giới hạn &amp; gỡ thua</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/dieu-khoan-su-dung/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-dieu-khoan-su-dung-16x9.png</image:loc>
+      <image:title>Điều khoản sử dụng — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-dieu-khoan-su-dung-4x3.png</image:loc>
+      <image:title>Điều khoản sử dụng — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-dieu-khoan-su-dung-1x1.png</image:loc>
+      <image:title>Điều khoản sử dụng — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/faq/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-faq-16x9.png</image:loc>
+      <image:title>Dubai Palace FAQ – Nạp rút, KYC, RTP, pháp lý &amp; an toàn</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-faq-4x3.png</image:loc>
+      <image:title>Dubai Palace FAQ – Nạp rút, KYC, RTP, pháp lý &amp; an toàn</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-faq-1x1.png</image:loc>
+      <image:title>Dubai Palace FAQ – Nạp rút, KYC, RTP, pháp lý &amp; an toàn</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/ho-tro/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-ho-tro-16x9.png</image:loc>
+      <image:title>Dubai Palace Hỗ trợ – Tài khoản, rút tiền &amp; chống lừa đảo</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-ho-tro-4x3.png</image:loc>
+      <image:title>Dubai Palace Hỗ trợ – Tài khoản, rút tiền &amp; chống lừa đảo</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-ho-tro-1x1.png</image:loc>
+      <image:title>Dubai Palace Hỗ trợ – Tài khoản, rút tiền &amp; chống lừa đảo</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-home-16x9.png</image:loc>
+      <image:title>Dubai Palace – Casino trực tiếp, slot, thể thao &amp; nạp rút</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-home-4x3.png</image:loc>
+      <image:title>Dubai Palace – Casino trực tiếp, slot, thể thao &amp; nạp rút</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-home-1x1.png</image:loc>
+      <image:title>Dubai Palace – Casino trực tiếp, slot, thể thao &amp; nạp rút</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/nap-rut-tien/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-nap-rut-tien-16x9.png</image:loc>
+      <image:title>Dubai Palace – Nạp rút, phương thức thanh toán, KYC &amp; phí</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-nap-rut-tien-4x3.png</image:loc>
+      <image:title>Dubai Palace – Nạp rút, phương thức thanh toán, KYC &amp; phí</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-nap-rut-tien-1x1.png</image:loc>
+      <image:title>Dubai Palace – Nạp rút, phương thức thanh toán, KYC &amp; phí</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/nguon-va-cap-nhat/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-nguon-va-cap-nhat-16x9.png</image:loc>
+      <image:title>Nguồn &amp; cập nhật — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-nguon-va-cap-nhat-4x3.png</image:loc>
+      <image:title>Nguồn &amp; cập nhật — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-nguon-va-cap-nhat-1x1.png</image:loc>
+      <image:title>Nguồn &amp; cập nhật — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/phap-ly-va-do-tuoi/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-phap-ly-va-do-tuoi-16x9.png</image:loc>
+      <image:title>Dubai Palace tại Việt Nam – Pháp lý, độ tuổi &amp; rủi ro</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-phap-ly-va-do-tuoi-4x3.png</image:loc>
+      <image:title>Dubai Palace tại Việt Nam – Pháp lý, độ tuổi &amp; rủi ro</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-phap-ly-va-do-tuoi-1x1.png</image:loc>
+      <image:title>Dubai Palace tại Việt Nam – Pháp lý, độ tuổi &amp; rủi ro</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/quyen-rieng-tu/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-quyen-rieng-tu-16x9.png</image:loc>
+      <image:title>Quyền riêng tư — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-quyen-rieng-tu-4x3.png</image:loc>
+      <image:title>Quyền riêng tư — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-quyen-rieng-tu-1x1.png</image:loc>
+      <image:title>Quyền riêng tư — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/so-do-trang/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-so-do-trang-16x9.png</image:loc>
+      <image:title>Sơ đồ trang — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-so-do-trang-4x3.png</image:loc>
+      <image:title>Sơ đồ trang — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-so-do-trang-1x1.png</image:loc>
+      <image:title>Sơ đồ trang — Dubai Palace Cẩm nang</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/thuong-hieu/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-thuong-hieu-16x9.png</image:loc>
+      <image:title>Dubai Palace là gì? Thương hiệu, trò chơi &amp; cách nhận diện</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-thuong-hieu-4x3.png</image:loc>
+      <image:title>Dubai Palace là gì? Thương hiệu, trò chơi &amp; cách nhận diện</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-thuong-hieu-1x1.png</image:loc>
+      <image:title>Dubai Palace là gì? Thương hiệu, trò chơi &amp; cách nhận diện</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/tro-choi/casino-truc-tuyen/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-tro-choi-casino-truc-tuyen-16x9.png</image:loc>
+      <image:title>Dubai Palace Casino trực tiếp – Baccarat, roulette &amp; blackjack</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-tro-choi-casino-truc-tuyen-4x3.png</image:loc>
+      <image:title>Dubai Palace Casino trực tiếp – Baccarat, roulette &amp; blackjack</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-tro-choi-casino-truc-tuyen-1x1.png</image:loc>
+      <image:title>Dubai Palace Casino trực tiếp – Baccarat, roulette &amp; blackjack</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/tro-choi/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-tro-choi-16x9.png</image:loc>
+      <image:title>Dubai Palace – Casino trực tiếp, slot, thể thao &amp; game bài</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-tro-choi-4x3.png</image:loc>
+      <image:title>Dubai Palace – Casino trực tiếp, slot, thể thao &amp; game bài</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-tro-choi-1x1.png</image:loc>
+      <image:title>Dubai Palace – Casino trực tiếp, slot, thể thao &amp; game bài</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/tro-choi/slot/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-tro-choi-slot-16x9.png</image:loc>
+      <image:title>Dubai Palace Slot – RTP, volatility, RNG &amp; cách đọc game</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-tro-choi-slot-4x3.png</image:loc>
+      <image:title>Dubai Palace Slot – RTP, volatility, RNG &amp; cách đọc game</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-tro-choi-slot-1x1.png</image:loc>
+      <image:title>Dubai Palace Slot – RTP, volatility, RNG &amp; cách đọc game</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/tro-choi/the-thao/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-tro-choi-the-thao-16x9.png</image:loc>
+      <image:title>Dubai Palace Thể thao – Odds, kèo, handicap &amp; settlement</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-tro-choi-the-thao-4x3.png</image:loc>
+      <image:title>Dubai Palace Thể thao – Odds, kèo, handicap &amp; settlement</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-tro-choi-the-thao-1x1.png</image:loc>
+      <image:title>Dubai Palace Thể thao – Odds, kèo, handicap &amp; settlement</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/ve-cam-nang/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-ve-cam-nang-16x9.png</image:loc>
+      <image:title>Về cẩm nang Dubai Palace — phạm vi &amp; tính độc lập</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-ve-cam-nang-4x3.png</image:loc>
+      <image:title>Về cẩm nang Dubai Palace — phạm vi &amp; tính độc lập</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-ve-cam-nang-1x1.png</image:loc>
+      <image:title>Về cẩm nang Dubai Palace — phạm vi &amp; tính độc lập</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/xac-minh-kyc/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-xac-minh-kyc-16x9.png</image:loc>
+      <image:title>Dubai Palace KYC – Xác minh danh tính, nạp rút &amp; dữ liệu</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-xac-minh-kyc-4x3.png</image:loc>
+      <image:title>Dubai Palace KYC – Xác minh danh tính, nạp rút &amp; dữ liệu</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-xac-minh-kyc-1x1.png</image:loc>
+      <image:title>Dubai Palace KYC – Xác minh danh tính, nạp rút &amp; dữ liệu</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>{{SITE_ORIGIN}}/xac-suat-va-quan-ly-ngan-sach/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-xac-suat-va-quan-ly-ngan-sach-16x9.png</image:loc>
+      <image:title>Dubai Palace – RTP, house edge, xác suất &amp; quản lý ngân sách</image:title>
+      <image:caption>Ảnh minh họa đại diện cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-xac-suat-va-quan-ly-ngan-sach-4x3.png</image:loc>
+      <image:title>Dubai Palace – RTP, house edge, xác suất &amp; quản lý ngân sách</image:title>
+      <image:caption>Ảnh minh họa bổ sung cho nội dung trang</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>{{SITE_ORIGIN}}/assets/article-images/dubai-palace-xac-suat-va-quan-ly-ngan-sach-1x1.png</image:loc>
+      <image:title>Dubai Palace – RTP, house edge, xác suất &amp; quản lý ngân sách</image:title>
+      <image:caption>Ảnh minh họa vuông cho nội dung trang</image:caption>
+    </image:image>
+  </url>
+</urlset>
