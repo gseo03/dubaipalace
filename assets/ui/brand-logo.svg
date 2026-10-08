@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="64" viewBox="0 0 240 64" role="img" aria-label="Dubai Palace — Cẩm nang thông tin">
+  <g fill="none" stroke="#d9b45b" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 14 h14 a18 18 0 0 1 0 36 h-14 z"/>
+    <path d="M22 22 h6 a10 10 0 0 1 0 20 h-6 z" stroke-width="1.6" opacity="0.55"/>
+    <path d="M40 32 l5 -5 l5 5 l-5 5 z" fill="#d9b45b" stroke="none"/>
+  </g>
+  <text x="60" y="30" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="600" fill="#f2e6c8" letter-spacing="0.5">Dubai Palace</text>
+  <text x="60" y="47" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#d9b45b" letter-spacing="2.2">CẨM NANG THÔNG TIN</text>
+</svg>
