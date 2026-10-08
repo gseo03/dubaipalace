@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: {{SITE_ORIGIN}}/sitemap.xml
+Sitemap: https://dubaipalace.pages.dev/sitemap.xml
